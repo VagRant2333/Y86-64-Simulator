@@ -1,0 +1,1 @@
+python pipe_test.py --bin ./cpu_pipe
